@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=320&color=gradient&customColorList=12,20,24,30&text=P.%20Kawshikk%20Shriidatta&fontColor=ffffff&fontSize=50&font=Fira%20Code&animation=twinkling&fontAlignY=50)
+ ![header](https://capsule-render.vercel.app/api?type=blur&height=320&color=gradient&customColorList=12,20,24,30&text=P.%20Kawshikk%20Shriidatta&fontColor=ffffff&fontSize=50&font=Fira%20Code&animation=twinkling&fontAlignY=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Building+cool+projects;Problem-Solving+Mindset;Backend+%26+Web+Craft+Learner;Learning.+Building.+Improving." alt="Typing SVG" />
